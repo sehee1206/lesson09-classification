@@ -1,0 +1,7 @@
+├── main.py
+├── requirements.txt
+├── 내_기록/
+│   └── user_data.json
+└── pages/
+    ├── 1_탐색.py
+    └── 2_분류_모델.py
